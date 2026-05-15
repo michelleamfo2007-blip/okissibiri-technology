@@ -1,12 +1,45 @@
+# Okissibiri Technology
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <h3>Build with Clarity. Powered by Six.</h3>
+  <p>A modern tech startup founded by Chief Okotwaswo</p>
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+##  About The Project
 
-View your app in AI Studio: https://ai.studio/apps/9fbb931e-1eb7-4724-a5c9-d881f2963d03
+Welcome to the official website of **Okissibiri Technology** – a rising startup built on precision, collaboration, and modern web development.
+
+We are a tight-knit team of six professionals dedicated to building high-quality digital products.
+
+---
+
+##  The Team
+
+| Role | Count |
+|------|-------|
+| Frontend Developers | 2 |
+| Backend Developers | 2 |
+| Technical Ops | 1 |
+| Project Manager | 1 |
+
+**Founder & Chief:** Okotwaswo
+
+---
+
+##  Tech Stack (Planned)
+
+- **Frontend:** React / Next.js / Tailwind CSS
+- **Backend:** Node.js / Django (TBD)
+- **Database:** PostgreSQL / MongoDB
+- **Hosting:** Vercel / Netlify / AWS
+- **Version Control:** Git & GitHub
+
+---
+
+
+
 
 ## Run Locally
 
